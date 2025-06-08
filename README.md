@@ -1,1 +1,1 @@
-# YOLOV10-Computer-Vision
+# YOLOv10-Computer-Vision
