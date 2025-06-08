@@ -1,5 +1,7 @@
 # YOLOv10 Custom Object Detection for Vehicle Detection
 
+Kaggle: www.kaggle.com/ankitparwatkar
+
 This repository contains a custom implementation of YOLOv10 for object detection focused on detecting 5 vehicle classes: Ambulance, Bus, Car, Motorcycle, and Truck. The project includes dataset preparation, visualization, model training, and inference pipelines.
 
 ## Dataset Structure
